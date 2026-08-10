@@ -102,25 +102,4 @@ A simple rule-based chatbot that responds to predefined user inputs.
 cd Task1_Hangman
 python hangman.py
 
-### Task 2 — Stock Portfolio Tracker
-
-cd Task2_StockPortfolio
-python stock_portfolio.py
-
-### Task 4 — Basic Chatbot
-
-cd Task4_Chatbot
-python chatbot.py
-
-## Learning outcomes
-Through these projects, I practiced:
-
-Python programming fundamentals
-Functions and modular programming
-Loops and conditional statements
-Lists and dictionaries
-User input and output
-Basic error handling
-Problem-solving and logical thinking
-Git and GitHub project management
 
